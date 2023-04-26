@@ -1,0 +1,24 @@
+body{
+  box-sizing: border-box;
+}
+main{
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.main-body button{
+  padding: 0.7rem;
+  border-radius: 5px;
+  outline: none;
+  font-size: 1.1rem;
+  border: 2px solid rgb(0, 0, 0);
+  transition: all 1s ease-out;
+}
+.details-of-body span{
+  background-color: rgba(62, 63, 63, 0.825);
+  padding: 10px;
+  border-radius: 2px;
+} 
